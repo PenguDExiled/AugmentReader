@@ -1,5 +1,6 @@
 # AugmentReader
-
+    Setup:
+    You have to install tesseract OCR: https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.2.0.20220712.exe
     What does it do?:
     It queues up, sells all carousel units, recognizes when augments are on screen
     --> reads them and sends them to a database. --> repeat
